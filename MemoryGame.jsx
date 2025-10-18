@@ -3,13 +3,13 @@ import { Shuffle } from 'lucide-react';
 
 // Здесь добавь свои ссылки на картинки
 const CARD_IMAGES = [
-  'https://freeimage.host/i/KvDlCVR',
-  'https://freeimage.host/i/KvDlnPp',
-  'https://freeimage.host/i/KvDlBov',
-  'https://freeimage.host/i/KvDlfDJ',
-  'https://freeimage.host/i/KvDlzlI',
-  'https://freeimage.host/i/KvDlxKN',
-  'https://freeimage.host/i/KvDlISt',
+  'https://iili.io/KvDlCVR.png',
+  'https://iili.io/KvDlnPp.png',
+  'https://iili.io/KvDlBov.png',
+  'https://iili.io/KvDlfDJ.png',
+  'https://iili.io/KvDlzlI.png',
+  'https://iili.io/KvDlxKN.png',
+  'https://iili.io/KvDlISt.png',
 ];
 
 const DIFFICULTY = {
